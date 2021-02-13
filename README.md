@@ -50,3 +50,47 @@ https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/12.png
 Y lo subo (puede que haya una variación de minutos respecto a la captura de la pantalla del ordenador y la hora que aparece en Github, ya que para que todo este texto de README.md aparezca también en github, voy a realiar una actualización del último commit en la que incluiré las fotos 11.png, 12.png y 13.png más los cambios de texto con un git commit add y git commit --amend).
 
 https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/13.png
+
+Y efectivamente, podemos observar que se ignoran los archivos y carpetas indicados en el archivo .gitignore, en este caso "privado.txt" y la carpeta privada.
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/14.png
+
+Añadir fichero. Añadir el fichero “1.txt” al repositorio local.
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/15.png
+
+Crear la etiqueta v0.1
+
+git tag v0.1
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/16.png
+
+Subig tag. Sube los cambios (incluido el tag) al repositorio remoto
+
+git add .
+
+git commit -m "Creada la etiqueta v0.1"
+
+git push
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/17.png
+
+Cambio de la foto de perfil
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/18.png
+
+TABLA DE ENLACE A LOS REPOSITORIOS DE LOS COMPAÑEROS DE LA CLASE.
+
+| NOMBRE | GITHUB |
+---------|--------|
+Pablo | https://github.com/Pabloleabr
+AguCadiz | https://github.com/agucadiz
+Jesús M. Espinar | https://github.com/jesus-eo
+ABPdonana | https://github.com/ABPdonana
+Antonio Fernando Román Fernández | https://github.com/antoniolc11
+Juan Diego | https://github.com/srsempere?tab=following
+Ana R. P. | https://github.com/anarp14
+Shuman | https://github.com/schuman94
+Raul R.B. | https://github.com/raulRB19
+Jesús Cordero Ávila | https://github.com/JesCorAvi
+Axrynz | https://github.com/axrynz
