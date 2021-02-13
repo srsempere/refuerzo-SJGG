@@ -95,6 +95,3 @@ Shuman | https://github.com/schuman94
 Raul R.B. | https://github.com/raulRB19
 Jesús Cordero Ávila | https://github.com/JesCorAvi
 Axrynz | https://github.com/axrynz
-=======
-https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/17.png
->>>>>>> b5d5f21516278c71ae63c4d1e479434d607724f5
