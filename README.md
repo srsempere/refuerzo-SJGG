@@ -50,3 +50,27 @@ https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/12.png
 Y lo subo (puede que haya una variación de minutos respecto a la captura de la pantalla del ordenador y la hora que aparece en Github, ya que para que todo este texto de README.md aparezca también en github, voy a realiar una actualización del último commit en la que incluiré las fotos 11.png, 12.png y 13.png más los cambios de texto con un git commit add y git commit --amend).
 
 https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/13.png
+
+Y efectivamente, podemos observar que se ignoran los archivos y carpetas indicados en el archivo .gitignore, en este caso "privado.txt" y la carpeta privada.
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/14.png
+
+Añadir fichero. Añadir el fichero “1.txt” al repositorio local.
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/15.png
+
+Crear la etiqueta v0.1
+
+git tag v0.1
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/16.png
+
+Subig tag. Sube los cambios (incluido el tag) al repositorio remoto
+
+git add .
+
+git commit -m "Creada la etiqueta v0.1"
+
+git push
+
+https://raw.githubusercontent.com/srsempere/refuerzo-SJGG/master/imagenes/17.png
